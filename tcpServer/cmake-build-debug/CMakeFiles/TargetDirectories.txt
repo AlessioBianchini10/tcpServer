@@ -1,0 +1,3 @@
+/home/alessio/projects/tcpServer/tcpServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alessio/projects/tcpServer/tcpServer/cmake-build-debug/CMakeFiles/tcpServer.dir
+/home/alessio/projects/tcpServer/tcpServer/cmake-build-debug/CMakeFiles/edit_cache.dir
